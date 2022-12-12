@@ -1,0 +1,25 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "nnode index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Fialko Pavel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git.com/fialkopavel"
+  },
+  "bugs": {
+    "url": "git.com/fialkopavel",
+    "email": "fialkopavel@gmail.com"
+  }
+}
